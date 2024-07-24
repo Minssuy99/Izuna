@@ -36,10 +36,10 @@
 ### 🧑‍🤝‍🧑 팀 구성 및 역할
 |역할|이름|GitHub|
 |---|---|---|
-|팀장|이지훈|<a href="https://github.com/Minssuy99" target="_blank">Link</a>|
+|팀장|이지훈|<a href="https://github.com/unm7925" target="_blank">Link</a>|
 |팀원|김민성|<a href="https://github.com/Minssuy99" target="_blank">Link</a>|
-|팀원|최민석|<a href="https://github.com/NFUE2" target="_blank">Link</a>|
-|팀원|이정훈|<a href="https://github.com/NFUE2" target="_blank">Link</a>|
+|팀원|최민석|<a href="https://github.com/snowdolf" target="_blank">Link</a>|
+|팀원|이정훈|<a href="https://github.com/whew15" target="_blank">Link</a>|
 
 
 ### ⚙️ 개발 환경
@@ -116,27 +116,23 @@
 </br>
 
 ## ✔ 주요 기능
-#### 📦 시작화면 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/1.-%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4" target="_blank">상세보기 WIKI 이동</a>]
+#### 📦 시작화면
 - 게임생성
 - 환경설정
  
-#### 📦 선택화면 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/2.-%EC%84%A0%ED%83%9D%ED%99%94%EB%A9%B4" target="_blank">상세보기 WIKI 이동</a>]
+#### 📦 선택화면
 - 캐릭터 선택 구현
 
-#### 📦 캐릭터 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/3.-%EC%BA%90%EB%A6%AD%ED%84%B0">상세보기 WIKI 이동</a>]
+#### 📦 캐릭터
 - 캐릭터 상태
 - 캐릭터 움직임
 - 캐릭터 공격 및 상호작용
 
-#### 📦 건축 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/4.-%EA%B1%B4%EC%B6%95" target="_blank">상세보기 WIKI 이동</a>]
-- 건축물, 공격 가능한 건축물 설치
-- 구조물 및 아이템 제작
-
-#### 📦 UI [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/5.-UI" target="_blank">상세보기 WIKI 이동</a>]
+#### 📦 UI
 - 애니메이션 효과
 - 슬라이더를 통한 볼륨조절
 
-#### 📦 기상효과 [<a href="https://github.com/Minssuy99/C11_TheFirstFantasy_Public/wiki/6.-%EA%B8%B0%EC%83%81%ED%9A%A8%EA%B3%BC" target="_blank">상세보기 WIKI 이동</a>]
+#### 📦 기상효과
 - 일정확률로 기후변화 발생
 
 
